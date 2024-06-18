@@ -1,6 +1,5 @@
 # PITEL-CUSC
 
-# meta-sc
 
 
 
